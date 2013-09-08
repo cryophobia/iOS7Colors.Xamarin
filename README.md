@@ -1,8 +1,8 @@
 # iOS7Colors.Xamarin
 
-iOS7Colors.Xamarin is a simple category on UIColor which provides you some of the standard colors used throughout iOS 7. 
+iOS7Colors.Xamarin is a simple subclass implementation of UIColor which provides you some of the standard colors used throughout iOS 7. 
 
-This project is based on the iOS implementation by [Claas Lange](https://github.com/claaslange/iOS7Colors)
+This project was inspired by the iOS implementation by [Claas Lange](https://github.com/claaslange/iOS7Colors)
 
 ## Screenshot
 
